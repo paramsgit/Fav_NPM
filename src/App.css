@@ -1,0 +1,18 @@
+body{
+    background-color: #f9fafb;
+    min-height: 100vh;
+}
+
+.hide_scroll {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.hide_scroll::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+.smooth{
+    transition: all 0.4s ease-in-out;
+}
+.Toastify__progress-bar--wrp{
+    height: 2px!important;
+}
