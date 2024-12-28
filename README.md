@@ -4,7 +4,7 @@
 
 A web application built with React, Tailwind CSS, and TypeScript that allows users to fetch data from the NPM API and manage their favorite packages. This project provides an intuitive interface to search, explore, and save frequently used NPM packages for quick access.
 
-Live: https://favnpmp.netlify.app/Home
+Live: https://favnpmp.netlify.app/
 
 ## Table of Contents
 
